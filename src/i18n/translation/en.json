@@ -1,0 +1,133 @@
+{
+  "translation": {
+    "welcome": "Hello Wold",
+
+    "home_welcome": "Ola mundo",
+    "home_heade_produtos": "Products",
+    "home_header_locais": "Locations",
+    "home_header_contato": "Contact",
+
+    "home_especialidades_text": "Special Products to Take Care of You!",
+    "home_especialidades_button": "See more",
+    "home_especialidades_item1_title": "Premium Lines",
+    "home_especialidades_item1_descricao": "Premium Product Lines Awaiting You",
+    "home_especialidades_item2_title": "Quality",
+    "home_especialidades_item2_descricao": "Enjoy and enjoy the best cosmetic products for you or your salon.",
+    "home_especialidades_item3_title": "Technology",
+    "home_especialidades_item3_descricao": "State-of-the-art technology in all manufacturing processes.",
+
+    "duvidas_titulo": "Clear your doubts",
+    "duvidas_subtitulo": "We are ready to help you",
+
+    "home_linhas_produtos_title": "Product lines",
+    "home_colecao_masculino": "Professional <br /> Line",
+    "home_colecao_feminino": "Home Care <br /> Line",
+    "home_colecao_botao": "See more",
+    "home_produtos": "Our Products",
+    "home_blog_titulo": "Access our blog!",
+    "home_blog_subtitulo": "Painless lock technique",
+    "home_blog_descricao": "New technique of painless locks with high trend in the world of hairdressers.",
+
+    "home_footer_descricao": "Always looking for <br /> the best in the market, <br /> such as imported raw materials <br /> of the highest quality, <br /> and always keeping <br /> an eye  on new technologies.<br /> To always improve the quality<br /> to be  delivered to beauty professionals.",
+    "home_footer_companhia_titulo": "Company",
+    "home_footer_companhia_produtos": "Products",
+    "home_footer_companhia_linhas": "Lines",
+    "home_footer_companhia_contato": "Contact",
+    "home_footer_blog_titulo": "Blog",
+    "home_footer_blog_eventos": "Events",
+    "home_footer_localizacao_titulo": "Location",
+    "home_footer_localizacao_endereco": "Av Nova Zelândia, 1050 Parque Capuava - Santo André/SP",
+    "home_footer_localizacao_endereco_cep": "CEP 09270-190",
+    "home_footer_localizacao_endereco_cnpj": "CNPJ 20.712.759/0001-04",
+    "home_footer_redes_titulo": "Social",
+    "home_footer_politica": "We use cookies and other similar technologies to improve your browsing experience. To learn more, visit: Cookies Policy and Privacy Policy. <br><br> The images linked here are merely illustrative, logo and brand are our property. Its reproduction, in whole or in part, without the express authorization of the site administrator is prohibited.",
+
+
+    "produtoId_titulo": "A premium and best quality preparation just for you!",
+
+    "produtos_titulo": "All our products have high quality imported raw materials. Enjoy.",
+    "produtos_subtitulo": "Special lines",
+    "produtos_botao_filtro": "Filter items",
+
+    "locais_titulo": "See where you can find our products",
+    "locais_botao_select": "Select",
+    "locais_subtitulo": "Stores and addresses",
+
+    "locais_label": "Locations",
+    "locais_option": "Select an option",
+
+    "filtro_titulo": "Filter",
+
+    "filtro_questao0_titulo": "Lines",
+    "filtro_questao0_option1": "Professional",
+    "filtro_questao0_option2": "Home Care",
+
+    "filtro_questao1_titulo": "WHAT'S YOUR SEX?",
+    "filtro_questao1_option1": "Feminine",
+    "filtro_questao1_option2": "Male",
+    "filtro_questao2_titulo": "HAIR DATA",
+    "filtro_questao2_option1_placeholder": "Do you consider your hair?",
+    "filtro_questao2_option0": "Select an option",
+    "filtro_questao2_option1": "Straight",
+    "filtro_questao2_option2": "Wavy",
+    "filtro_questao2_option3": "Curly",
+    "filtro_questao2_option4": "Curly",
+    
+    "filtro_questao3_option1_placeholder": "Hair type",
+    "filtro_questao3_option0": "Select an option",
+    "filtro_questao3_option1": "Natural",
+    "filtro_questao3_option2": "with locks",
+    "filtro_questao3_option3": "with straightening",
+    "filtro_questao3_option4": "with coloring",
+
+    "filtro_questao4_titulo": "LENGTH OF YOUR HAIR?",
+    "filtro_questao4_option1": "Far away",
+    "filtro_questao4_option2": "Medium",
+    "filtro_questao4_option3": "Short",
+
+    "filtro_questao5_titulo": "YOUR HAIR LOOKS?",
+    "filtro_questao5_option1": "Oily",
+    "filtro_questao5_option2": "Dry",
+    "filtro_questao5_option3": "Mixed",
+
+    "privacidade_titulo": "Privacy Policy",
+    "privacidade_subtitulo": "At Facinnius, we take privacy seriously.",
+
+    "cookies_titulo": "Cookie Policy",
+
+    "contato_titulo": "Questions or Suggestion? Fill in the fields below to contact us.",
+    "contato_subtitulo": "Contact us:",
+    "contato_tipo_contato": "TYPE OF CONTACT",
+    "contato_tipo_input1": "Contact",
+    "contato_tipo_input2": "Be a Distributor",
+    "contato_tipo_input3": "Leave your Opinion",
+
+    "contato_form_titulo": "Filter",
+    "contato_form_nome": "Name",
+    "contato_form_telefone": "Phone",
+    "contato_form_email": "E-mail",
+    "contato_form_regiao": "Region",
+    "contato_form_cabeleireiro": "You are hairdresser",
+    "contato_form_cabeleireiro_option1": "Si",
+    "contato_form_cabeleireiro_option2": "No",
+    "contato_form_mensagem": "Leave your message",
+    "contato_form_categoria": "Category",
+    "contato_form_categoria_option1": "Site",
+    "contato_form_categoria_option2": "Products",
+    "contato_form_categoria_option3": "Consultants",
+    "contato_form_categoria_option4": "Praise",
+    "contato_form_categoria_option5": "Doubts",
+    "contato_form_categoria_option6": "Suggestions",
+    "contato_form_endereco": "Address",
+    "contato_form_numero": "Number",
+    "contato_form_cidade": "City",
+    "contato_form_opinião": "Opinion",
+    "contato_form_enviar": "Submit",
+
+    "sobre_titulo": "ABOUT <h6 class='titulo_facinnius'>Facinnius</h6>",
+    "sobre_descrição1": "Founded in 1998, the company began to have a new management in 2014, thus undergoing reformulations in packaging and formulas. Further improving the quality and excellence of products.",
+    "sobre_descrição2": "Always looking for the best in the market as imported raw materials of the highest quality, and always on the lookout for new technologies To always improve the quality to be delivered to beauty professionals.",
+    "sobre_descrição3": "We have a qualified team of representatives, who serve exclusively beauty professionals in their establishments.",
+    "sobre_descrição4": "With frequent launches that accompany the world market, Facinnius provides in its lines products with exclusive characteristics that present excellent results and satisfaction of its customers."
+  }
+}

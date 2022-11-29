@@ -1,0 +1,76 @@
+/*=============== GOOGLE FONTS ===============*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
+
+@font-face {
+    font-family: 'Mantika';
+    src: url(../../../public/fonts/Mantika-Book-W01-Regular.ttf);
+}
+
+/*=============== VARIABLES CSS ===============*/
+:root{
+    --header-height: 3.5rem;
+
+    --cor-0: #ffffff;
+    --cor-1: #f7f7f7;
+    --cor-2: #ededed;
+    --cor-3: #dedede;
+    --cor-4: #cccccc;
+    --cor-5: #b2b2b2;
+    --cor-6: #9c9c9c; 
+    --cor-7: #717171;
+    --cor-8: #595959;
+    --cor-9: #404040;
+    --cor-10: #2e2e2e;
+    --cor-11: #111111;
+    --cor-12: #000000;
+    --cor-p1: #ffbb00;
+    --cor-p2: #e4a30b;
+    --cor-p3: #a66f00;
+    --cor-p4: #664400;
+    --cor-p5: #332200;  
+
+    /*========== Colors ==========*/
+    /*Color mode HSL(hue, saturation, lightness)*/
+    --bg-color: hsl(220, 18%, 78%);
+    --bg-color-light: hsl(220, 18%, 86%);
+    --title-color: hsl(220, 8%, 10%);
+    --text-color: hsl(220, 4%, 32%);
+    --text-color-light: hsl(220, 4%, 55%);
+    --body-color: hsl(220, 18%, 99%);
+    --container-color: hsl(220, 18%, 97%);
+    --first-color: hsl(36, 72%, 48%);
+
+
+    /*========== Font and typography ==========*/
+    /*.5rem = 8px | 1rem = 16px ...*/
+    --body-font: 'Montserrat', sans-serif;
+    --body-font-facinnius: 'Mantika', sans-serif;
+
+    --biggest-font-size: 2.25rem;
+    --h1-font-size: 1.5rem;
+    --h2-font-size: 1.25rem;
+    --h3-font-size: 1rem;
+    --normal-font-size: .938rem;
+    --small-font-size: .813rem;
+    --smaller-font-size: .75rem;
+
+    // Responsive typography
+    @media screen and (min-width: 1124px){
+        --biggest-font-size: 4.5rem;
+        --h1-font-size: 2.25rem;
+        --h2-font-size: 1.5rem;
+        --h3-font-size: 1.25rem;
+        --normal-font-size: 1rem;
+        --small-font-size: .875rem;
+        --smaller-font-size: .813rem;
+    }
+
+    /*========== Font weight ==========*/
+    --font-regular: 400;
+    --font-medium: 500;
+    --font-semi-bold: 600;
+
+    /*========== z index ==========*/
+    --z-tooltip: 10;
+    --z-fixed: 100;
+}

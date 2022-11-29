@@ -1,0 +1,133 @@
+{
+  "translation": {
+    "welcome": "Ola mundo",
+    "home_welcome": "Ola mundo",
+    
+    "home_heade_produtos": "Produtos",
+    "home_header_locais": "Locais",
+    "home_header_contato": "Contato",
+
+    "home_especialidades_text": "Produtos Especiais para Cuidar de você!",
+    "home_especialidades_button": "veja mais",
+    "home_especialidades_item1_title": "Linhas Premium",
+    "home_especialidades_item1_descricao": "Linhas de Produtos Premium Esperando por Você.",
+    "home_especialidades_item2_title": "Qualidade",
+    "home_especialidades_item2_descricao": "Aproveite e desfrute dos melhores produtos cosméticos para você ou seu salão.",
+    "home_especialidades_item3_title": "Tecnologia",
+    "home_especialidades_item3_descricao": "Tecnologia de ponta em todos os processos de fabricação.",
+
+    "duvidas_titulo": "Tire suas duvidas",
+    "duvidas_subtitulo": "Estamos prontos para te ajudar",
+
+    "home_linhas_produtos_title": "Linhas de Produtos",
+
+    "home_colecao_masculino": "Linha <br /> Profissional",
+    "home_colecao_feminino": "Linha <br /> Home Care",
+    "home_colecao_botao": "Veja mais",
+
+    "home_produtos": "Nossos Produtos",
+
+    "home_blog_titulo": "Acesse nosso blog!",
+    "home_blog_subtitulo": "Técnica de mechas indolor",
+    "home_blog_descricao": "Nova técnica de mechas indolor com alta tendência no mundo dos cabeleireiros.",
+
+    "home_footer_descricao": "Buscando sempre <br /> o que há de melhor no mercado <br /> como matérias-primas importadas <br /> de altíssima qualidade, <br /> e sempre de olho e novas <br /> tecnologias Para sempre melhorar <br /> a qualidade a  ser entregue aos <br /> profissionais da beleza.",
+    "home_footer_companhia_titulo": "Companhia",
+    "home_footer_companhia_produtos": "Produtos",
+    "home_footer_companhia_linhas": "Linhas",
+    "home_footer_companhia_contato": "Contato",
+    "home_footer_blog_titulo": "Blog",
+    "home_footer_blog_eventos": "Eventos",
+    "home_footer_localizacao_titulo": "Localização",
+    "home_footer_localizacao_endereco": "Av Nova Zelândia, 1050 Parque Capuava - Santo André/SP",
+    "home_footer_localizacao_endereco_cep": "CEP 09270-190",
+    "home_footer_localizacao_endereco_cnpj": "CNPJ 20.712.759/0001-04",
+    "home_footer_redes_titulo": "Redes sociais",
+    "home_footer_politica": "Nós usamos cookies e outras tecnologias semelhantes para melhorar a sua experiência de navegação. Para saber mais acesse: Política de Cookies e Política de Privacidade. <br><br> As imagens aqui vinculadas são meramente ilustrativas, logotipo e marca são de nossa propriedade. É vetada a sua reprodução, total ou parcial, sem a expressa autorização da administradora do site.",
+
+    "produtoId_titulo": "Uma preparação premium e de melhor qualidade só para você!",
+
+    "produtos_titulo": "Confiram todos os nossos Produtos",
+    "produtos_subtitulo": "Todos os nossos produtos possuem matérias-primas importadas de altíssima qualidade. Aproveite.",
+    "produtos_botao_filtro": "Filtrar itens",
+
+    "locais_titulo": "Veja onde pode encontrar nossos produtos",
+    "locais_label": "Locais",
+    "locais_option": "Selecione uma opção",
+    "locais_botao_select": "Selecione",
+    "locais_subtitulo": "Lojas e endereços",
+
+    "filtro_titulo": "Filtros",
+
+    "filtro_questao0_titulo": "Linhas",
+    "filtro_questao0_option1": "Profissional",
+    "filtro_questao0_option2": "Home Care",
+
+    "filtro_questao1_titulo": "QUAL O SEU SEXO?",
+    "filtro_questao1_option1": "Feminino",
+    "filtro_questao1_option2": "Masculino",
+    "filtro_questao2_titulo": "DADOS DO CABELO",
+    "filtro_questao2_option1_placeholder": "Você considera seu cabelo?",
+    "filtro_questao2_option0": "Selecione uma opção",
+    "filtro_questao2_option1": "Liso",
+    "filtro_questao2_option2": "Ondulado",
+    "filtro_questao2_option3": "Cacheado",
+    "filtro_questao2_option4": "Crespo",
+    
+    "filtro_questao3_option1_placeholder": "Tipo de cabelo",
+    "filtro_questao3_option0": "Selecione uma opção",
+    "filtro_questao3_option1": "Natural",
+    "filtro_questao3_option2": "Com mechas",
+    "filtro_questao3_option3": "Com alisamento",
+    "filtro_questao3_option4": "Com coloração",
+
+    "filtro_questao4_titulo": "COMPRIMENTO DO SEU CABELO?",
+    "filtro_questao4_option1": "Longo",
+    "filtro_questao4_option2": "Médio",
+    "filtro_questao4_option3": "Curto",
+
+    "filtro_questao5_titulo": "ASPECTO DO SEU CABELO?",
+    "filtro_questao5_option1": "Oleoso",
+    "filtro_questao5_option2": "Seco",
+    "filtro_questao5_option3": "Misto",
+
+    "privacidade_titulo": "Política de privacidade",
+    "privacidade_subtitulo": "Na Facinnius, levamos privacidade a sério.",
+
+    "cookies_titulo": "Política de Cookies",
+
+    "contato_titulo": "Dúvidas ou Sugestão? Preencha os campos abaixo para entrar em contato conosco.",
+    "contato_subtitulo": "Fale Conosco:",
+    "contato_tipo_contato": "TIPO DE CONTATO",
+    "contato_tipo_input1": "Contato",
+    "contato_tipo_input2": "Seja um Distribuidor",
+    "contato_tipo_input3": "Deixe sua Opinião",
+    "contato_form_titulo": "Dados",
+    "contato_form_nome": "Nome",
+    "contato_form_telefone": "Telefone",
+    "contato_form_email": "E-mail",
+    "contato_form_regiao": "Região",
+    "contato_form_cabeleireiro": "Você é cabeleireiro",
+    "contato_form_cabeleireiro_option1": "Sim",
+    "contato_form_cabeleireiro_option2": "Não",
+    "contato_form_categoria": "Categoria",
+    "contato_form_categoria_option1": "Site",
+    "contato_form_categoria_option2": "Produtos",
+    "contato_form_categoria_option3": "Consultores",
+    "contato_form_categoria_option4": "Elogios",
+    "contato_form_categoria_option5": "Duvidas",
+    "contato_form_categoria_option6": "Sugestões",
+    "contato_form_mensagem": "Deixe sua mensagem",
+    "contato_form_endereco": "Endereço",
+    "contato_form_numero": "Numero",
+    "contato_form_cidade": "Cidade",
+    "contato_form_opinião": "Opinião",
+    "contato_form_enviar": "Enviar",
+
+    "sobre_titulo": "Sobre a <h6 class='titulo_facinnius'>Facinnius</h6>",
+    "sobre_descrição1": "Fundada em 1998, a empresa passou a contar com uma nova gestão em 2014, passando assim por reformulações em embalagens e fórmulas. Melhorando ainda mais a qualidade e excelência dos produtos.",
+    "sobre_descrição2": "Buscando sempre o que há de melhor no mercado como matérias-primas importadas de altíssima qualidade, e sempre de olho e novas tecnologias Para sempre melhorar a qualidade a ser entregue aos profissionais da beleza.",
+    "sobre_descrição3": "Contamos com uma equipe qualificada de representantes, que atendem exclusivamente aos profissionais da beleza em seus estabelecimentos.",
+    "sobre_descrição4": "Com lançamentos frequentes que acompanham o mercado mundial, a Facinnius proporciona em suas linhas produtos com características exclusivas que apresentam ótimos resultados e satisfação de seus clientes."
+  }
+}

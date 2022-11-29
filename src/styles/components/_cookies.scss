@@ -1,0 +1,81 @@
+.containerCookie {
+  position: fixed;
+  bottom: 10px;
+  z-index: 50;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  width: 80%;
+  padding: 16px 18px;
+  background: #fff;
+  border-radius: 4px;
+  box-shadow: 5px 5px 11px 7px rgba(0, 0, 0, 0.22);
+
+  &.coke {
+      display: none;
+  }
+
+  .infoCookie {
+      display: flex;
+      align-items: center;
+      width: 70%;
+      span {
+          display: inline-block;
+          align-items: center;
+          font-size: 14px;
+          font-weight: 600;
+          color: #000;
+      }
+      .buttonTerms {
+          background: transparent;
+          border: none;
+          color: #337ab7;
+          font-size: 12px;
+          font-weight: 500;
+          margin-left: 4px;
+          cursor: pointer;
+
+          &:hover {
+              text-decoration: underline;
+          }
+      }
+  }
+
+  .buttonAcceptCookies {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      padding: 8px 16px;
+      border-radius: 4px;
+      color: #fff;
+      border: none;
+      background: lightblue;
+      box-shadow: 5px 5px 11px 7px rgba(0, 0, 0, 0.22);
+      cursor: pointer;
+      transform: scale(0.9);
+
+      transition: all 0.1s ease-in;
+      &:hover {
+          transition: all 0.1s ease-in;
+
+          transform: scale(1);
+          filter: brightness(0.9);
+      }
+  }
+
+  @media(max-width: 800px) {
+      width: calc(100% - 40px);
+      margin: 0 20px;
+
+      .infoCookie {
+          width: 100%;
+
+          span {
+              font-size: 12px;
+          }
+      }
+    }
+}
